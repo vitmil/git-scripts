@@ -181,6 +181,9 @@ config.*
 
 bkp/
 
+# Tutti i files che hanno "vimi" nel nome (case-insensitive)
+*vimi*
+
 # ============================================
 # NOTE
 # ============================================
